@@ -26,4 +26,4 @@ JWT_PRIVATE_KEY=<your private key>
 4. Run the command `cd client && npm install` to install all the client side dependencies
 5. At the root level of the project, run the command `npm run dev` to start the development server
 
-Feel free to submit PRs to add new features, fix bugs and make code improvements.
+
